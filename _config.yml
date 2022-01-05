@@ -54,7 +54,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/evan-fannin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
