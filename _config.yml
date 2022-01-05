@@ -38,10 +38,7 @@ plugins:
   - jekyll-gist
 
 author:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+  github: evan-fannin
 
 # Site Footer
 footer:
