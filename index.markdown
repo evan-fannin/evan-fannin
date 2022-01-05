@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-title: " "
 header:
-  overlay_image: /assets/images/denny_bnb_homepage.jpeg
+  image: /assets/images/denny_bnb_homepage.jpeg
 ---
