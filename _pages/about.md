@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 permalink: /about/
+type: pages
 ---
 
 The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.
