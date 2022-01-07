@@ -4,10 +4,9 @@ permalink: /about/
 type: pages
 ---
 <div style="padding-left: 2em; padding-right: 5em">
-<p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
-
-<!-- ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/profile_pic_1.jpeg){: .align-right} -->
 <img src="https://evan-fannin.github.io/evan-fannin/assets/images/profile_pic_1.jpeg" style="max-width: 50%; height: auto; float: right;">
-
-<p>And now we're going to shift things to the right align. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there --- Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.</p>
+<h3>Hi, I'm Evan!</h3>
+<p>I'm a guy from Nashville, Tennessee who's decided he wants nothing other than a career in software engineering.</p>
+<p>I have a Bachelor's in mathematics with a minor in computer science, but I started school studying history and political science. Throughout that process, I discovered that I love working with systems and moving parts, which led to my fascination with building tools that move on their own through programming!</p>
+<p>In the time I don't spend pursuing my career, I revel in exploring the world physically, linguistically, and literarily.</p>
 </div>
