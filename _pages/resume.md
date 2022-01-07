@@ -2,4 +2,4 @@
 title: "Resume"
 permalink: /resume/
 ---
-<object data="../assets/path/to/document.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="https://evan-fannin.github.io/evan-fannin/assets/images/evan_fannin_resume.pdf" type='application/pdf'></object>
