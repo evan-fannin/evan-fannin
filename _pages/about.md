@@ -3,7 +3,7 @@ title: "About Me"
 permalink: /about/
 type: pages
 ---
-<div class="padding-right: 2em">
+<div style="padding-right: 2em">
 <p>The image above, though 1200px wide, should not overflow the content area. It should remain contained with no visible disruption to the flow of content.</p>
 
 <!-- ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/profile_pic_1.jpeg){: .align-right} -->
