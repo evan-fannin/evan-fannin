@@ -1,7 +1,8 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Resume"
-    url: https://evan-fannin.github.io/evan-fannin/assets/images/evan_fannin_resume.pdf
   - title: "Projects"
     url: /projects/
+  - title: "Resume"
+    url: https://evan-fannin.github.io/evan-fannin/assets/images/evan_fannin_resume.pdf
+  
