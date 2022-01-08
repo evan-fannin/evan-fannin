@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 header:
-    image: /assets/images/profile_pic_2.jpeg
+    image: /assets/images/profile_pic_adj_size.jpeg
 ---
