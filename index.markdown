@@ -4,5 +4,5 @@
 
 layout: single
 header:
-  image: /assets/images/denny_bnb_homepage.jpeg
+  image: /assets/images/profile_pic_2.jpeg
 ---
