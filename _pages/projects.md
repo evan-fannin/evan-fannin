@@ -3,7 +3,7 @@ title: "Projects"
 permalink: /projects/
 ---
 <div style="padding-left: 2em; padding-right: 4em">
-    <h2 style="display: inline;">
+    <h2>
         <a href="http://ec2-13-58-89-254.us-east-2.compute.amazonaws.com/">
         Denny BnB
         </a>
