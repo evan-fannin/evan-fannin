@@ -4,5 +4,5 @@
 
 layout: single
 header:
-  image: /assets/images/profile_pic_2.jpeg
+  image: /assets/images/profile_pic_adj_size.jpeg
 ---
