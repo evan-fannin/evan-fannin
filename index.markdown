@@ -4,5 +4,5 @@
 
 layout: single
 header:
-  image_overlay: /assets/images/profile_pic_2.jpeg
+  overlay_image: /assets/images/profile_pic_2.jpeg
 ---
