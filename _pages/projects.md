@@ -5,7 +5,7 @@ permalink: /projects/
 <div style="padding-left: 2em; padding-right: 4em">
     <h2>
         <a href="http://ec2-13-58-89-254.us-east-2.compute.amazonaws.com/">
-        Denny BnB
+        Denny BnB - (Try It Out!)
         </a>
     </h2>
     <img src="https://evan-fannin.github.io/assets/images/denny_bnb_screenshot.png" style="max-width: 50%; height: auto; float: right; margin-left: 1em; animation: intro 0.3s both; animation-delay: 0.25s;" alt="Denny BnB Screenshot">
