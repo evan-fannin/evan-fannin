@@ -5,4 +5,8 @@ main:
     url: /projects/
   - title: "Resume"
     url: https://evan-fannin.github.io/assets/images/evan_fannin_resume.pdf
+  - title: "GitHub"
+    url: https://github.com/evan-fannin
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/evan-fannin/
   
