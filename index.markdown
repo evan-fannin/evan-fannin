@@ -1,9 +1,6 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-permalink: /index/
-title: "Index"
 ---
 <div style="padding-left: 2em; padding-right: 4em">
     <img src="https://evan-fannin.github.io/assets/images/profile_pic_1.jpeg" style="max-width: 50%; height: auto; float: right; margin-left: 1em; animation: intro 0.3s both; animation-delay: 0.25s;">
