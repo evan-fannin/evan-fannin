@@ -8,6 +8,6 @@ layout: default
     <h3 style="text-align: center;">Hi, I'm Evan!</h3>
     <p>I'm a guy from Nashville, Tennessee who wants nothing more than a position as a software engineer!</p>
     <p>I have a Bachelor's degree in mathematics with a minor in computer science, but I started school studying history and political science. Throughout that process, I discovered that I love working with systems and moving parts, which led to my fascination with building tools that move on their own through programming!</p>
-    <p>Since graduating in December of 2020, I've been working as a product analyst, taking on as many Python responsibilites as I can. On the side, I've been teaching myself fullstack engineering by building a rental bookings app in React and Django.</p>
+    <p>Since graduating in December of 2020, I've been working as a product analyst, taking on as many Python responsibilites as I can. On the side, I've been teaching myself fullstack engineering by building a <a href="/projects/">rental bookings app</a> in React and Django.</p>
     <p>In the time I don't spend pursuing my career, I revel in exploring the world physically, linguistically, and literarily.</p>
 </div>
